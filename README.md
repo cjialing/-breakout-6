@@ -12,4 +12,6 @@
 ### 內容：
 ***
 ### PERT/CPM圖
+![img](第6組PERT圖.png "PERT/CPM圖")
 ### 甘特圖
+![img](第6組甘特圖.png "甘特圖")

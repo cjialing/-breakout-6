@@ -51,6 +51,7 @@
 4. 效能(performance)：採用多執行緒，能承載100人同時發送請求。
 5. 維護性(maintainability)：主要採用Javascript進行開發，變數名稱都以駝峰式大小寫規則進行命名。
 ## 功能分解圖(functional decomposition diagram,FDD)
+![FFD](https://user-images.githubusercontent.com/91525111/138677598-ac9fb552-1bca-48b0-83c3-ea8fe9c37992.jpg)
 ## 需求分析
 ## 使用案例圖
 ## 使用案例分析

@@ -51,7 +51,7 @@
 4. 效能(performance)：採用多執行緒，能承載100人同時發送請求。
 5. 維護性(maintainability)：主要採用Javascript進行開發，變數名稱都以駝峰式大小寫規則進行命名。
 ## 功能分解圖(functional decomposition diagram,FDD)
-![FFD](https://user-images.githubusercontent.com/91525111/138678054-32eb528d-ed42-4bdc-affc-3d5991b1e8ba.jpg)
+![FFD](FDD.png)
 ## 需求分析
 ### 架設遊民好朋友網站的需求分析簡述如下：
 1. 使用者可以根據自己的想法架設自己的部落格。

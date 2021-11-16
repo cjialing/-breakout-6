@@ -104,6 +104,10 @@
 ![DFD0](DFD0.png)
 ### UML 類別圖(class Diagram)
 ![UML](UML.png)
+### 使用案例一 建立部落格
+#### 循序圖
+
+#### 活動圖
 ### 使用案例2 線上客服系統
 #### 活動圖
 ![activity1115](https://user-images.githubusercontent.com/91525111/141814852-29a2ab55-7bf7-4446-b525-73ad352ff0e2.jpg)

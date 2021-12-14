@@ -144,3 +144,4 @@
 ### 客服系統
 ![客服](客服.png)
 ### 實體關係圖(entity-relationship diagram, ERD)
+![ERD](ERD.png)

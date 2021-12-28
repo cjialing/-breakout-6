@@ -145,5 +145,5 @@
 ![客服](客服.png)
 ### 實體關係圖(entity-relationship diagram, ERD)
 ![ERD](ERD.png)
-### 影片展示
+### 程式DEMO
 https://drive.google.com/file/d/1LZHr3Q8E8kbzOqnTsgVuBTlTKIh696nW/view?usp=sharing

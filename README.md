@@ -147,5 +147,3 @@
 ![ERD](ERD.png)
 ### 影片展示
 https://drive.google.com/file/d/1LZHr3Q8E8kbzOqnTsgVuBTlTKIh696nW/view?usp=sharing
-### 使用案例三 查看補助資訊展示
-### 使用案例三 查看補助資訊
